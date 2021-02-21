@@ -3,7 +3,7 @@
 ## Summary
 
 This is a simple application inspired by
-<a href="https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg" target="_blaank">Tyler Potts'</a>
+<a href="https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg" target="_blank">Tyler Potts'</a>
 educational <a href="https://www.youtube.com/watch?v=GuA0_Z1llYU" target="_blank">video</a>
 
 The API for fetching real time data used is provided by <a href="https://openweathermap.org/" target="_blank">OpenWeather</a>.
