@@ -2,11 +2,13 @@
 
 ## Summary
 
-This is a simple application inspired by [Tyler Potts'](https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg) educational [video](https://www.youtube.com/watch?v=GuA0_Z1llYU).
+This is a simple application inspired by
+<a href="https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg" target="_blaank">Tyler Potts'</a>
+educational <a href="https://www.youtube.com/watch?v=GuA0_Z1llYU" target="_blank">video</a>
 
-The API for fetching real time data used is provided by [OpenWeather](https://openweathermap.org/).
+The API for fetching real time data used is provided by <a href="https://openweathermap.org/" target="_blank">OpenWeather</a>.
 
-The full documentation for this particular API could be found [here](https://openweathermap.org/current).
+The full documentation for this particular API could be found <a href="https://openweathermap.org/current" target="_blank">here</a>
 
 <hr/>
 
@@ -19,7 +21,7 @@ The full documentation for this particular API could be found [here](https://ope
 
 ## Steps to obtain a personal API Key
 
-- Create account (if you don't have one) in the [OpenWeather](https://openweathermap.org/) platform;
+- Create account (if you don't have one) in the <a href="https://openweathermap.org/" target="_blank">OpenWeather</a>
 - Navigate to the My API Keys option in the top bar drop down menu:
 
   <img alt="My API keys" src='./src/assets/myApiKeys.png' width="300px" height="150px"></img>
